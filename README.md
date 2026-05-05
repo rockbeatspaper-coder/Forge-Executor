@@ -21,13 +21,13 @@ Dashboard and settings pages
 
 Clean and responsive UI
 
-Notes
+# Notes
 The source code is not public
 
 The client receives updates through this repository
 
 Do not open issues requesting the source code
 
-Installation
+# Installation
 Download the latest release from the Releases section.
 Run the installer and follow the on‑screen instructions.
