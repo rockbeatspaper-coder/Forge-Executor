@@ -8,7 +8,7 @@ Forge Executor is a modern Roblox script execution client with a clean interface
 The project is closed source.
 This repository only exists to handle automatic updates for the client.
 
-Features
+# Features
 Internal script execution
 
 External tools panel
