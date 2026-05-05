@@ -4,6 +4,8 @@ THIS PROJECT IS CLOSED SOURCE! THE GITHUB REPO IS ONLY FOR HANDLING AUTO UPDATES
 
 # Reminder
 The UNC and sUNC rate in the UI may be false.
+You are required to be on Windows 10 or higher.
+The project is still in alpha and may have bugs or crash.
 
 Forge Executor is a modern Roblox script execution client with a clean interface and a focus on stability.
 The project is closed source.
